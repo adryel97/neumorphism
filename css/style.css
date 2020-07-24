@@ -1,0 +1,6 @@
+html, body {
+    overflow-x: hidden;
+}
+.window {
+    padding-left: 90px !important;
+}
